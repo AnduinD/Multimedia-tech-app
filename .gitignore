@@ -1,0 +1,19 @@
+# vscode
+**/.vscode/
+# !.vscode/settings.json
+# !.vscode/tasks.json
+# !.vscode/launch.json
+# !.vscode/extensions.json
+# !.vscode/*.code-snippets
+
+
+# document
+*.pdf 
+*.docx
+*.doc
+
+# image resource
+# *.png
+
+# MATLAB
+*.asv
